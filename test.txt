@@ -1,2 +1,4 @@
 hello world
 branch exercise
+
+conflict1
